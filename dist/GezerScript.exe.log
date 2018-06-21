@@ -1,0 +1,87 @@
+Traceback (most recent call last):
+  File "GezerScript.py", line 3, in <module>
+  File "selenium\webdriver\__init__.pyo", line 18, in <module>
+    
+  File "C:\Users\Maor\Desktop\MyCodingProjects\Python\GezerAutoCheckScript\dist\.\selenium\webdriver\firefox\webdriver.py", line 34, in <module>
+    desired_capabilities=None, service_log_path=None):
+  File "selenium\webdriver\remote\webdriver.pyo", line 26, in <module>
+    
+  File "selenium\webdriver\remote\webelement.pyo", line 41, in <module>
+    c
+  File "pkgutil.pyo", line 591, in get_data
+    
+  File "pkgutil.pyo", line 255, in get_data
+    
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\Maor\\Desktop\\MyCodingProjects\\Python\\GezerAutoCheckScript\\dist\\.\\selenium\\webdriver\\remote\\getAttribute.js'
+Traceback (most recent call last):
+  File "GezerScript.py", line 3, in <module>
+  File "selenium\webdriver\__init__.pyo", line 18, in <module>
+    
+  File "C:\Users\Maor\Desktop\MyCodingProjects\Python\GezerAutoCheckScript\dist\.\selenium\webdriver\firefox\webdriver.py", line 34, in <module>
+    desired_capabilities=None, service_log_path=None):
+  File "selenium\webdriver\remote\webdriver.pyo", line 26, in <module>
+    
+  File "selenium\webdriver\remote\webelement.pyo", line 41, in <module>
+    c
+  File "pkgutil.pyo", line 591, in get_data
+    
+  File "pkgutil.pyo", line 255, in get_data
+    
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\Maor\\Desktop\\MyCodingProjects\\Python\\GezerAutoCheckScript\\dist\\.\\selenium\\webdriver\\remote\\getAttribute.js'
+Traceback (most recent call last):
+  File "GezerScript.py", line 3, in <module>
+  File "selenium\webdriver\__init__.pyo", line 18, in <module>
+    
+  File "C:\Users\Maor\Desktop\MyCodingProjects\Python\GezerAutoCheckScript\dist\.\selenium\webdriver\firefox\webdriver.py", line 34, in <module>
+    desired_capabilities=None, service_log_path=None):
+  File "selenium\webdriver\remote\webdriver.pyo", line 26, in <module>
+    
+  File "selenium\webdriver\remote\webelement.pyo", line 41, in <module>
+    c
+  File "pkgutil.pyo", line 591, in get_data
+    
+  File "pkgutil.pyo", line 255, in get_data
+    
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\Maor\\Desktop\\MyCodingProjects\\Python\\GezerAutoCheckScript\\dist\\.\\selenium\\webdriver\\remote\\getAttribute.js'
+Traceback (most recent call last):
+  File "GezerScript.py", line 3, in <module>
+  File "selenium\webdriver\__init__.pyo", line 18, in <module>
+    
+  File "C:\Users\Maor\Desktop\MyCodingProjects\Python\GezerAutoCheckScript\dist\.\selenium\webdriver\firefox\webdriver.py", line 34, in <module>
+    desired_capabilities=None, service_log_path=None):
+  File "selenium\webdriver\remote\webdriver.pyo", line 26, in <module>
+    
+  File "selenium\webdriver\remote\webelement.pyo", line 41, in <module>
+    c
+  File "pkgutil.pyo", line 591, in get_data
+    
+  File "pkgutil.pyo", line 255, in get_data
+    
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\Maor\\Desktop\\MyCodingProjects\\Python\\GezerAutoCheckScript\\dist\\.\\selenium\\webdriver\\remote\\getAttribute.js'
+Traceback (most recent call last):
+  File "GezerScript.py", line 3, in <module>
+  File "selenium\webdriver\__init__.pyo", line 18, in <module>
+    
+  File "C:\Users\Maor\Desktop\MyCodingProjects\Python\GezerAutoCheckScript\dist\.\selenium\webdriver\firefox\webdriver.py", line 34, in <module>
+    desired_capabilities=None, service_log_path=None):
+  File "selenium\webdriver\remote\webdriver.pyo", line 26, in <module>
+    
+  File "selenium\webdriver\remote\webelement.pyo", line 41, in <module>
+    c
+  File "pkgutil.pyo", line 591, in get_data
+    
+  File "pkgutil.pyo", line 255, in get_data
+    
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\Maor\\Desktop\\MyCodingProjects\\Python\\GezerAutoCheckScript\\dist\\.\\selenium\\webdriver\\remote\\getAttribute.js'
+Traceback (most recent call last):
+  File "GezerScript.py", line 3, in <module>
+  File "selenium\webdriver\__init__.pyo", line 18, in <module>
+  File "C:\Users\Maor\Desktop\MyCodingProjects\Python\GezerAutoCheckScript\dist\.\selenium\webdriver\firefox\webdriver.py", line 34, in <module>
+    desired_capabilities=None, service_log_path=None):
+  File "selenium\webdriver\remote\webdriver.pyo", line 26, in <module>
+  File "selenium\webdriver\remote\webelement.pyo", line 41, in <module>
+  File "pkgutil.pyo", line 591, in get_data
+    
+  File "pkgutil.pyo", line 255, in get_data
+    
+IOError: [Errno 2] No such file or directory: 'C:\\Users\\Maor\\Desktop\\MyCodingProjects\\Python\\GezerAutoCheckScript\\dist\\.\\selenium\\webdriver\\remote\\getAttribute.js'
